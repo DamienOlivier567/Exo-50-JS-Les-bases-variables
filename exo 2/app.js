@@ -1,0 +1,1 @@
+alert("Nom: Doe \ Prenom: John\ Ville: New-York")
